@@ -7,6 +7,9 @@ public class Main {
         String a = new String("ZSD");
         String b = new String("ZSD");
         System.out.println(a == b);
+        String c = new String("ZSD");
+        String f = new String("ZSD");
+        System.out.println(a == b);
     }
 }
 
