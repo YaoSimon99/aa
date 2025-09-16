@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class Main {
@@ -7,6 +8,11 @@ public class Main {
         String a = new String("ZSD");
         String b = new String("ZSD");
         System.out.println(a == b);
+        System.out.println(a == b);
+        System.out.println(a == b);
+        System.out.println(a == b);
+        HashMap hashMap =  new HashMap<String,String>();
+
     }
 }
 
