@@ -13,6 +13,9 @@ public class Main {
         System.out.println(a == b);
         HashMap hashMap =  new HashMap<String,String>();
 
+        String c = new String("ZSD");
+        String f = new String("ZSD");
+        System.out.println(a == b);
     }
 }
 
